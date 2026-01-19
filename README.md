@@ -17,7 +17,7 @@ odnosno Sturm–Liouvilleov problem vlastitih vrijednosti:
 $$ {\frac {-\hbar ^{2}}{2m}}{\frac {d^{2}\psi }{dx^{2}}}+V\psi =E\psi. $$ 
 
 Rješenje ovog problema je skup beskonačno mnogo vlastitih vrijednosti Hamiltonijana $E_n$ te 
-pripadajuće vlastite funkcije $\psi_n$ koje tvore ortonormalnu bazu Hilbertovog prostora:
+pripadajuće vlastite funkcije $\psi_n$ (stacionarna stanja) koje tvore ortonormalnu bazu Hilbertovog prostora:
 
 $$\Psi(x,t) = \psi_1(x) e^{\frac{-iE_1t}{\hbar}},\quad \Psi(x,t) = \psi_2(x) e^{\frac{-iE_2t}{\hbar}},\space ...$$
 
