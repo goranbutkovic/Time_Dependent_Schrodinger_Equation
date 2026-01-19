@@ -10,7 +10,7 @@ koja će se riješiti metodom separacije varijabli.
 Prvo će se riješiti vremenski neovisna (stacionarna) Schrödingerova jednadžba
 
 
-$$\operatorname {\hat {H}} |\Psi \rangle =E|\Psi \rangle, $$
+$${\hat {H}} |\Psi \rangle =E|\Psi \rangle, $$
 
 odnosno Sturm–Liouvilleov problem vlastitih vrijednosti:
 
