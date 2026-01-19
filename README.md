@@ -25,5 +25,5 @@ Kompletno riješenje dobije se kao linearna kompozicija, odnosno spektralna deko
 
 $${\displaystyle \Psi (x,t)=\sum _{n=1}^{\infty }c_{n}\psi _{n}e^{\frac {-iE_{n}t}{\hbar }}.}$$
 
-The main solver in this repository is adapted from [Luke Polson's notebook](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid17.ipynb), with modifications for animation and different potentials.
+The main solver in this repository is adapted from [this notebook](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid17.ipynb), with modifications for animation and different potentials.
 
