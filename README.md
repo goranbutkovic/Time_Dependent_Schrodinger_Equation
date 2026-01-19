@@ -24,3 +24,6 @@ $$\Psi(x,t) = \psi_1(x) e^{\frac{-iE_1t}{\hbar}},\quad \Psi(x,t) = \psi_2(x) e^{
 Kompletno riješenje dobije se kao linearna kompozicija, odnosno spektralna dekompozicija (beskonačna suma) vlastitih funkcija Hamiltonijana pomnoženih s faktorima $c_n$:
 
 $${\displaystyle \Psi (x,t)=\sum _{n=1}^{\infty }c_{n}\psi _{n}e^{\frac {-iE_{n}t}{\hbar }}.}$$
+
+The main solver in this repository is adapted from [Luke Polson's notebook](https://github.com/lukepolson/youtube_channel/blob/main/Python%20Metaphysics%20Series/vid17.ipynb), with modifications for animation and different potentials.
+
