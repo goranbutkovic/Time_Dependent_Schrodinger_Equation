@@ -1,4 +1,4 @@
-Time-dependent Schrödinger equation:
+Vremenski ovisna Schrödingerova jednadžba je linearna parcijalna diferencijalna jednadžba:
 
 $$
 i \hbar \frac{\partial \Psi(x,t)}{\partial t} = \hat{H} \Psi(x,t), \quad
