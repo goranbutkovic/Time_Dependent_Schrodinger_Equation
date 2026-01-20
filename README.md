@@ -17,7 +17,7 @@ $$ {\frac {-\hbar ^{2}}{2m}}{\frac {d^{2}\psi }{dx^{2}}}+V\psi =E\psi. $$
 The solution to this problem is a set of infinitely many eigenvalues of the Hamiltonian  $E_n$ and their corresponding eigenfunctions 
 $\psi_n$ (stationary states), which form an orthonormal basis of the Hilbert space:
 
-$$\Psi(x,t) = \psi_1(x) e^{\frac{-iE_1t}{\hbar}},\quad \Psi(x,t) = \psi_2(x) e^{\frac{-iE_2t}{\hbar}},\space ...$$
+$$\Psi_1(x,t) = \psi_1(x) e^{\frac{-iE_1t}{\hbar}},\quad \Psi_2(x,t) = \psi_2(x) e^{\frac{-iE_2t}{\hbar}},\space ...$$
 
 The complete solution is obtained as a linear combination, i.e., the spectral decomposition (an infinite sum) of the Hamiltonian’s eigenfunctions multiplied by coefficients $c_n$:
 
